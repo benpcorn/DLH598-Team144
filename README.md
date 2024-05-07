@@ -2,7 +2,7 @@
 
 This repo provides a Jupyter notebook that can be used to reproduce the results of the academic paper, Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning, from Huang et. al.
 
-The original paper can be viewed [here](https://arxiv.org/abs/2306.00003), and the original repo can be found [here](https://github.com/tufts-ml/SAMIL/tree/main).
+The original paper can be viewed [here](https://arxiv.org/abs/2306.00003), and the original repo can be found [here](https://github.com/tufts-ml/SAMIL/tree/main). You can view a brief overview of the reproduction [here](https://www.youtube.com/watch?v=mZLC0L0FTKQ).
 
 This notebook was developed in Google Colab with the Pro+ subscription to enable access to Nvidia A100's for training and access to Google Drive. You can choose to run this notebook in Google Colab, or modify the notebook to pull files locally instead of from Google Drive.
 
